@@ -24,4 +24,5 @@ Responsive Design
 WEBSITE FULL PREVIEW-
 https://drive.google.com/drive/folders/1lLLrrvDHaUJvG3EE5Ha0irAKdjgaKhJS
 
-![Alt text](https://github.com/Sagar199-cmd/Fama-Barber-Shop/blob/caebc9c977b11d667a1afcb690ed01afbef10673/Screenshot%202025-05-19%20211440.png)
+![Alt text]([https://github.com/Sagar199-cmd/Fama-Barber-Shop/blob/caebc9c977b11d667a1afcb690ed01afbef10673/Screenshot%202025-05-19%20211440.png](https://github.com/Sagar199-cmd/Fama-Barber-Shop/blob/caebc9c977b11d667a1afcb690ed01afbef10673/Screenshot%202025-05-19%20211425.png
+))
