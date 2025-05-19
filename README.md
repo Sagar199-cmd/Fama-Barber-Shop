@@ -5,20 +5,20 @@ This is a fully responsive, modern one-page website for Fama Barber Shop & Beaut
 
 # Key Features:
 
-Elegant black & gold theme with minimalist design
-Smooth scroll and fade-in animations
-Hero section with business details and CTA
-About us, services, and photo gallery sections
-Testimonials from clients
-Contact section with clickable phone number and map
-Built with TypeScript for type-safe development
-Fully responsive and SEO-friendly
+Elegant black & gold theme with minimalist design, 
+Smooth scroll and fade-in animations, 
+Hero section with business details and CTA, 
+About us, services, and photo gallery sections, 
+Testimonials from clients, 
+Contact section with clickable phone number and map, 
+Built with TypeScript for type-safe development, 
+Fully responsive and SEO-friendly.
 
 🛠️ Tech Stack:
 
-TypeScript
-Tailwind CSS
-HTML5
+TypeScript, 
+Tailwind CSS, 
+HTML5, 
 Responsive Design
 
 WEBSITE PREVIEW-
